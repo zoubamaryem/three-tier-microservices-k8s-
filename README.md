@@ -248,31 +248,6 @@ while sleep 0.01; do wget -q -O- http://frontend-service; done
 
 ---
 
-## 📊 Captures d'Écran
-
-### Pods en Exécution
-![Pods Running](screenshots/01-pods-running.png)
-
-### Services Kubernetes
-![Services](screenshots/02-services.png)
-
-### Interface Web - Utilisateurs
-![Users List](screenshots/07-users-list.png)
-
-### Interface Web - Posts
-![Posts List](screenshots/08-posts-list.png)
-
-### Communication Inter-Microservices (Logs)
-![Communication Logs](screenshots/12-logs-communication.png)
-
-### API Response - Users
-![API Users](screenshots/13-api-users.png)
-
-### API Response - Posts
-![API Posts](screenshots/14-api-posts.png)
-
----
-
 ## 🎓 Concepts Kubernetes Appliqués
 
 | Concept | Implémentation |
@@ -386,38 +361,7 @@ three-tier-microservices/
 
 ---
 
-## 🤝 Contributions
 
-Les contributions sont les bienvenues ! N'hésitez pas à :
-- 🐛 Reporter des bugs
-- 💡 Proposer des améliorations
-- 📖 Améliorer la documentation
-- ⭐ Star le projet si vous l'aimez !
-
----
-
-## 📄 Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
----
-
-## 👤 Auteur
-
-**Votre Nom**
-- GitHub: [@votre-username](https://github.com/votre-username)
-- Email: votre.email@example.com
-
----
-
-## 🙏 Remerciements
-
-- Kubernetes Documentation
-- Flask Documentation
-- PostgreSQL Documentation
-- Communauté DevOps
-
----
 
 ## 📈 Statistiques du Projet
 
@@ -429,10 +373,4 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ---
 
-<div align="center">
 
-**⭐ Si ce projet vous a été utile, n'oubliez pas de lui donner une étoile ! ⭐**
-
-Made with ❤️ and ☕
-
-</div>
