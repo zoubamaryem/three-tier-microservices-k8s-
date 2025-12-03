@@ -201,9 +201,9 @@ kubectl get all -n microservices-app
 
 ### Accès à l'Application
 ```
-Frontend : http://<MASTER_IP>:30080
-API Users : http://<MASTER_IP>:30080/api/users
-API Posts : http://<MASTER_IP>:30080/api/posts
+Frontend : http://192.168.56.10:30080
+API Users : http://192.168.56.10:30080/api/users
+API Posts : http://192.168.56.10:30080/api/posts
 ```
 
 ---
