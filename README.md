@@ -9,7 +9,7 @@
 
 Une application **production-ready** démontrant une architecture **Three-Tier** avec **2 microservices communiquants** déployés sur **Kubernetes**.
 
-![Architecture](screenshots/15-architecture-diagram.png)
+
 
 ---
 
